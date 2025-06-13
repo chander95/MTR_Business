@@ -1,0 +1,54 @@
+{
+    "url": "https://www.furnishedfinder.com/property/848304_1",
+    "title": "Beautiful 4-Bedroom Historic Colonial House For Rent",
+    "price_monthly_raw": "$8500.00",
+    "price_monthly_clean": 8500.0,
+    "utilities_included": true,
+    "bedrooms": 4.0,
+    "bathrooms": 2.5,
+    "description_space": null,
+    "description_neighborhood": null,
+    "amenities": [
+        "Dishwasher",
+        "Full-Size Fridge",
+        "Kitchen essentials",
+        "Microwave",
+        "Starter kitchen essentials",
+        "Stovetop"
+    ],
+    "availability_calendar_raw": [],
+    "general_location_detail_page": "House in Holliston, Massachusetts",
+    "host_name": null,
+    "property_type": "4 Bedroom",
+    "square_footage": "2700",
+    "min_stay_months": 1,
+    "property_id": "848304_1",
+    "last_updated": "05.12.2025",
+    "landlord_tenure": "4 monthsHolliston, MASee Full ProfileSend landlord a message",
+    "availability_status_text": "Available",
+    "closest_facilities_listed": [
+        {
+            "name": "Framingham Outpatient Clinic",
+            "distance_text": "6.02 miles away"
+        },
+        {
+            "name": "Metrowest Medical Center",
+            "distance_text": "6.16 miles away"
+        },
+        {
+            "name": "Milford Regional Medical Center",
+            "distance_text": "6.55 miles away"
+        },
+        {
+            "name": "Beth Israel Deaconess Hospital - Needham",
+            "distance_text": "11.51 miles away"
+        },
+        {
+            "name": "Norwood Hospital",
+            "distance_text": "11.87 miles away"
+        }
+    ],
+    "reviews_count": 0,
+    "photos_urls": [],
+    "scrape_time_detail": 1749784948.4659991
+}

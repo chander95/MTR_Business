@@ -1,0 +1,53 @@
+{
+    "url": "https://www.furnishedfinder.com/property/775025_1",
+    "title": "Entire 2 bedroom Condo on Franklin/Bellingham Line",
+    "price_monthly_raw": "$2800.00",
+    "price_monthly_clean": 2800.0,
+    "utilities_included": true,
+    "bedrooms": 2.0,
+    "bathrooms": 1.5,
+    "description_space": null,
+    "description_neighborhood": null,
+    "amenities": [
+        "Dishwasher",
+        "Full-Size Fridge",
+        "Kitchen essentials",
+        "Microwave",
+        "Stovetop"
+    ],
+    "availability_calendar_raw": [],
+    "general_location_detail_page": "Condo in Bellingham, Massachusetts",
+    "host_name": null,
+    "property_type": "2 Bedroom",
+    "square_footage": null,
+    "min_stay_months": 1,
+    "property_id": "775025_1",
+    "last_updated": "05.14.2025",
+    "landlord_tenure": "1 year, 1 month",
+    "availability_status_text": "Available: Aug. 31, 2025",
+    "closest_facilities_listed": [
+        {
+            "name": "Milford Regional Medical Center",
+            "distance_text": "5.16 miles away"
+        },
+        {
+            "name": "Landmark Medical Center,  Inc",
+            "distance_text": "5.44 miles away"
+        },
+        {
+            "name": "Sturdy Memorial Hospital",
+            "distance_text": "13.39 miles away"
+        },
+        {
+            "name": "Framingham Outpatient Clinic",
+            "distance_text": "14.25 miles away"
+        },
+        {
+            "name": "Metrowest Medical Center",
+            "distance_text": "14.39 miles away"
+        }
+    ],
+    "reviews_count": 0,
+    "photos_urls": [],
+    "scrape_time_detail": 1749784990.994215
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://www.furnishedfinder.com/property/298452_1",
+    "title": "Cozy Historic New England Home",
+    "price_monthly_raw": "$2700.00",
+    "price_monthly_clean": 2700.0,
+    "utilities_included": true,
+    "bedrooms": 2.0,
+    "bathrooms": 1.0,
+    "description_space": null,
+    "description_neighborhood": null,
+    "amenities": [
+        "Full-Size Fridge",
+        "Kitchen essentials",
+        "Microwave",
+        "Starter kitchen essentials",
+        "Stovetop"
+    ],
+    "availability_calendar_raw": [],
+    "general_location_detail_page": "Apartment in Milford, Massachusetts",
+    "host_name": null,
+    "property_type": "2 Bedroom",
+    "square_footage": "1000",
+    "min_stay_months": 1,
+    "property_id": "298452_1",
+    "last_updated": "05.07.2025",
+    "landlord_tenure": "4 years, 2 months",
+    "availability_status_text": "Available: Jun. 20, 2025",
+    "closest_facilities_listed": [
+        {
+            "name": "Milford Regional Medical Center",
+            "distance_text": "0.78 miles away"
+        },
+        {
+            "name": "Landmark Medical Center,  Inc",
+            "distance_text": "9.39 miles away"
+        },
+        {
+            "name": "Framingham Outpatient Clinic",
+            "distance_text": "11.11 miles away"
+        },
+        {
+            "name": "Metrowest Medical Center",
+            "distance_text": "11.2 miles away"
+        },
+        {
+            "name": "Marlborough Hospital",
+            "distance_text": "14.95 miles away"
+        }
+    ],
+    "reviews_count": 0,
+    "photos_urls": [],
+    "scrape_time_detail": 1749784970.739533
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://www.furnishedfinder.com/property/297090_1",
+    "title": "Cozy Colonial One Bedroom Apartment",
+    "price_monthly_raw": "$1650.00",
+    "price_monthly_clean": 1650.0,
+    "utilities_included": true,
+    "bedrooms": 1.0,
+    "bathrooms": 1.0,
+    "description_space": null,
+    "description_neighborhood": null,
+    "amenities": [
+        "Dishwasher",
+        "Full-Size Fridge",
+        "Kitchen essentials",
+        "Microwave",
+        "Starter kitchen essentials",
+        "Stovetop"
+    ],
+    "availability_calendar_raw": [],
+    "general_location_detail_page": "Apartment in Milford, Massachusetts",
+    "host_name": null,
+    "property_type": "1 Bedroom",
+    "square_footage": "500",
+    "min_stay_months": 3,
+    "property_id": "297090_1",
+    "last_updated": "05.07.2025",
+    "landlord_tenure": "3 years, 11 months",
+    "availability_status_text": "Available: Jul. 12, 2025",
+    "closest_facilities_listed": [
+        {
+            "name": "Milford Regional Medical Center Hospital/AKA UMass Medical Milford",
+            "distance_text": "0.2 miles away"
+        },
+        {
+            "name": "Dana-Farber Brigham and Womens Cancer Center",
+            "distance_text": "0.2 miles away"
+        },
+        {
+            "name": "Framingham Union Hospital",
+            "distance_text": "13.9 miles away"
+        },
+        {
+            "name": "Leonard Morse Hospital, in Natick, MA",
+            "distance_text": "17 miles away"
+        },
+        {
+            "name": "Landmark Medical Center, in Woonsocket, RI",
+            "distance_text": "10.6 miles away"
+        }
+    ],
+    "reviews_count": 0,
+    "photos_urls": [],
+    "scrape_time_detail": 1749784976.4427478
+}

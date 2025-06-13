@@ -1,0 +1,52 @@
+{
+    "url": "https://www.furnishedfinder.com/property/476654_1",
+    "title": "Quiet and Cozy Oasis Centrally Located to Major Cities!",
+    "price_monthly_raw": "$2300.00",
+    "price_monthly_clean": 2300.0,
+    "utilities_included": null,
+    "bedrooms": 1.0,
+    "bathrooms": 1.0,
+    "description_space": null,
+    "description_neighborhood": null,
+    "amenities": [
+        "Full-Size Fridge",
+        "Kitchen essentials",
+        "Microwave",
+        "Stovetop"
+    ],
+    "availability_calendar_raw": [],
+    "general_location_detail_page": "House in Mendon, Massachusetts",
+    "host_name": null,
+    "property_type": "1 Bedroom",
+    "square_footage": null,
+    "min_stay_months": 1,
+    "property_id": "476654_1",
+    "last_updated": "05.07.2025",
+    "landlord_tenure": "2 years, 4 months",
+    "availability_status_text": "Available",
+    "closest_facilities_listed": [
+        {
+            "name": "Milford Regional Medical Center",
+            "distance_text": "3.43 miles away"
+        },
+        {
+            "name": "Landmark Medical Center,  Inc",
+            "distance_text": "6.44 miles away"
+        },
+        {
+            "name": "Framingham Outpatient Clinic",
+            "distance_text": "15.22 miles away"
+        },
+        {
+            "name": "Metrowest Medical Center",
+            "distance_text": "15.32 miles away"
+        },
+        {
+            "name": "Our Lady Of Fatima Hospital",
+            "distance_text": "16.73 miles away"
+        }
+    ],
+    "reviews_count": 0,
+    "photos_urls": [],
+    "scrape_time_detail": 1749784937.45225
+}

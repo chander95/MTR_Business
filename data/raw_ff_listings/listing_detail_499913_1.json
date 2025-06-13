@@ -1,0 +1,54 @@
+{
+    "url": "https://www.furnishedfinder.com/property/499913_1",
+    "title": "Private House in quiet setting",
+    "price_monthly_raw": "$1100.00",
+    "price_monthly_clean": 1100.0,
+    "utilities_included": true,
+    "bedrooms": 1.0,
+    "bathrooms": 1.0,
+    "description_space": null,
+    "description_neighborhood": null,
+    "amenities": [
+        "Dishwasher",
+        "Full-Size Fridge",
+        "Kitchen essentials",
+        "Microwave",
+        "Starter kitchen essentials",
+        "Stovetop"
+    ],
+    "availability_calendar_raw": [],
+    "general_location_detail_page": "Private room in Mendon, Massachusetts",
+    "host_name": null,
+    "property_type": "1 Bedroom",
+    "square_footage": "550",
+    "min_stay_months": 3,
+    "property_id": "499913_1",
+    "last_updated": "05.11.2025",
+    "landlord_tenure": "2 years, 3 months",
+    "availability_status_text": "Available",
+    "closest_facilities_listed": [
+        {
+            "name": "Milford Regional Medical Center",
+            "distance_text": "3.99 miles away"
+        },
+        {
+            "name": "Landmark Medical Center,  Inc",
+            "distance_text": "7.88 miles away"
+        },
+        {
+            "name": "Umass Memorial Medical Center Inc",
+            "distance_text": "15.34 miles away"
+        },
+        {
+            "name": "Framingham Outpatient Clinic",
+            "distance_text": "15.61 miles away"
+        },
+        {
+            "name": "Metrowest Medical Center",
+            "distance_text": "15.68 miles away"
+        }
+    ],
+    "reviews_count": 0,
+    "photos_urls": [],
+    "scrape_time_detail": 1749784965.442046
+}

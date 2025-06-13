@@ -1,0 +1,53 @@
+{
+    "url": "https://www.furnishedfinder.com/property/686269_1",
+    "title": "Michelle Elise",
+    "price_monthly_raw": "$1000.00",
+    "price_monthly_clean": 1000.0,
+    "utilities_included": true,
+    "bedrooms": 1.0,
+    "bathrooms": 1.0,
+    "description_space": null,
+    "description_neighborhood": null,
+    "amenities": [
+        "Full-Size Fridge",
+        "Kitchen essentials",
+        "Microwave",
+        "Starter kitchen essentials",
+        "Stovetop"
+    ],
+    "availability_calendar_raw": [],
+    "general_location_detail_page": "Private room in Hopedale, Massachusetts",
+    "host_name": null,
+    "property_type": "1 Bedroom",
+    "square_footage": "1650",
+    "min_stay_months": 1,
+    "property_id": "686269_1",
+    "last_updated": "04.25.2025",
+    "landlord_tenure": "2 years, 11 months",
+    "availability_status_text": "Available: Sep. 01, 2025",
+    "closest_facilities_listed": [
+        {
+            "name": "Milford Regional Medical Center",
+            "distance_text": "0.78 miles away"
+        },
+        {
+            "name": "Landmark Medical Center",
+            "distance_text": "8.2 miles away"
+        },
+        {
+            "name": "Framingham Outpatient Clinic",
+            "distance_text": "12.54 miles away"
+        },
+        {
+            "name": "Metrowest Medical Center",
+            "distance_text": "12.63 miles away"
+        },
+        {
+            "name": "Umass Memorial Medical Center Inc",
+            "distance_text": "15.93 miles away"
+        }
+    ],
+    "reviews_count": 0,
+    "photos_urls": [],
+    "scrape_time_detail": 1749784980.2379699
+}

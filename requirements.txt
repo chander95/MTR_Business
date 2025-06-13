@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+# Optional: Uncomment if you find FurnishedFinder's calendar or other content is dynamically loaded via JavaScript.
+selenium
+webdriver_manager
+# Optional: Uncomment if you use the official Google Maps Python client library for API calls.
+# google-maps-services-python
+pandas
+numpy

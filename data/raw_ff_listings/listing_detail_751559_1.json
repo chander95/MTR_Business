@@ -1,0 +1,54 @@
+{
+    "url": "https://www.furnishedfinder.com/property/751559_1",
+    "title": "Lakefront Upton Ma",
+    "price_monthly_raw": "$2100.00",
+    "price_monthly_clean": 2100.0,
+    "utilities_included": true,
+    "bedrooms": 1.0,
+    "bathrooms": 1.0,
+    "description_space": null,
+    "description_neighborhood": null,
+    "amenities": [
+        "Dishwasher",
+        "Full-Size Fridge",
+        "Kitchen essentials",
+        "Microwave",
+        "Starter kitchen essentials",
+        "Stovetop"
+    ],
+    "availability_calendar_raw": [],
+    "general_location_detail_page": "Private room in Upton, Massachusetts",
+    "host_name": null,
+    "property_type": "1 Bedroom",
+    "square_footage": "2800",
+    "min_stay_months": 1,
+    "property_id": "751559_1",
+    "last_updated": "05.07.2025",
+    "landlord_tenure": "2 years, 6 months",
+    "availability_status_text": "Available",
+    "closest_facilities_listed": [
+        {
+            "name": "Milford Regional Medical Center, uMass medical Worcester Memorial Hospital, Worcester, Framingham Union Hospital, Tufts hospital",
+            "distance_text": "0 miles away"
+        },
+        {
+            "name": "Framingham Outpatient Clinic",
+            "distance_text": "9.54 miles away"
+        },
+        {
+            "name": "Metrowest Medical Center",
+            "distance_text": "9.57 miles away"
+        },
+        {
+            "name": "Marlborough Hospital",
+            "distance_text": "11.28 miles away"
+        },
+        {
+            "name": "Umass Memorial Medical Center Inc",
+            "distance_text": "12.05 miles away"
+        }
+    ],
+    "reviews_count": 0,
+    "photos_urls": [],
+    "scrape_time_detail": 1749784944.019937
+}

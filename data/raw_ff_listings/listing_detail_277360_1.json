@@ -1,0 +1,34 @@
+{
+    "url": "https://www.furnishedfinder.com/property/277360_1",
+    "title": "Large, bright, 3 bedroom first floor unit with parking. Close to Milford Regional Medical Center, Dana Farber and all major routes.",
+    "price_monthly_raw": "$2600.00",
+    "price_monthly_clean": 2600.0,
+    "utilities_included": true,
+    "bedrooms": null,
+    "bathrooms": 1.0,
+    "description_space": null,
+    "description_neighborhood": null,
+    "amenities": [
+        "Full-Size Fridge",
+        "Stovetop"
+    ],
+    "availability_calendar_raw": [],
+    "general_location_detail_page": "Apartment in Milford, Massachusetts",
+    "host_name": null,
+    "property_type": "1 Bathroom",
+    "square_footage": null,
+    "min_stay_months": 1,
+    "property_id": "277360_1",
+    "last_updated": "05.07.2025",
+    "landlord_tenure": "5 years, 3 months",
+    "availability_status_text": "Available",
+    "closest_facilities_listed": [
+        {
+            "name": "U Mass   Med / Metrowest Med  Ctr Leonard Morse / Milf Reg  Med Center / Dana Farber at Milford /",
+            "distance_text": "0 miles away"
+        }
+    ],
+    "reviews_count": 0,
+    "photos_urls": [],
+    "scrape_time_detail": 1749784953.9744158
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://www.furnishedfinder.com/property/371983_1",
+    "title": "Ranch home close to parklands and pond",
+    "price_monthly_raw": "$3950.00",
+    "price_monthly_clean": 3950.0,
+    "utilities_included": true,
+    "bedrooms": 2.0,
+    "bathrooms": 1.5,
+    "description_space": null,
+    "description_neighborhood": null,
+    "amenities": [
+        "Dishwasher",
+        "Full-Size Fridge",
+        "Kitchen essentials",
+        "Microwave",
+        "Starter kitchen essentials",
+        "Stovetop"
+    ],
+    "availability_calendar_raw": [],
+    "general_location_detail_page": "House in Hopedale, Massachusetts",
+    "host_name": null,
+    "property_type": "2 Bedroom",
+    "square_footage": "1200",
+    "min_stay_months": 1,
+    "property_id": "371983_1",
+    "last_updated": "05.07.2025",
+    "landlord_tenure": "3 years, 2 months",
+    "availability_status_text": "Available",
+    "closest_facilities_listed": [
+        {
+            "name": "Milford Regional Medical Center",
+            "distance_text": "0.66 miles away"
+        },
+        {
+            "name": "Landmark Medical Center,  Inc",
+            "distance_text": "9 miles away"
+        },
+        {
+            "name": "Framingham Outpatient Clinic",
+            "distance_text": "12.29 miles away"
+        },
+        {
+            "name": "Metrowest Medical Center",
+            "distance_text": "12.37 miles away"
+        },
+        {
+            "name": "Umass Memorial Medical Center Inc",
+            "distance_text": "15.15 miles away"
+        }
+    ],
+    "reviews_count": 0,
+    "photos_urls": [],
+    "scrape_time_detail": 1749784960.4997919
+}
